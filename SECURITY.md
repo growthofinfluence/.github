@@ -4,7 +4,7 @@
 
 Please do not open a public issue for a security problem.
 
-Email **chris@growthofinfluence.com** with:
+Use the **Report a vulnerability** button on the repository's Security tab (private reporting), or email **chris@growthofinfluence.com** with:
 
 - what you found and how to reproduce it (use made up data, never a real credential),
 - the repository, version and your environment,
