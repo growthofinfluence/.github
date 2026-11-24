@@ -11,7 +11,7 @@ Experienced marketers and AI agents deliver growth for brands, and the tools we 
 
 <p align="center">
   <a href="https://growthofinfluence.com"><img src="https://img.shields.io/badge/Website-growthofinfluence.com-0D1B4B?style=for-the-badge&labelColor=F5A623" alt="growthofinfluence.com"></a>
-  <a href="https://growthofinfluence.com/book-a-call/"><img src="https://img.shields.io/badge/Book%20a%20call-0D1B4B?style=for-the-badge&labelColor=F5A623" alt="Book a call"></a>
+  <a href="https://growthofinfluence.com/book-a-call/"><img src="https://img.shields.io/badge/Book%20a%20call-growthofinfluence.com-0D1B4B?style=for-the-badge&labelColor=F5A623" alt="Book a call"></a>
   <a href="https://www.linkedin.com/company/growth-of-influence/"><img src="https://img.shields.io/badge/LinkedIn-Growth%20Of%20Influence-0D1B4B?style=for-the-badge&labelColor=F5A623" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/growth_of_influence/"><img src="https://img.shields.io/badge/Instagram-growth__of__influence-0D1B4B?style=for-the-badge&labelColor=F5A623" alt="Instagram"></a>
 </p>
