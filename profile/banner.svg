@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-label="Growth Of Influence: digital marketing outsourcing run by people and AI agents">
+  <rect width="1200" height="300" fill="#0D1B4B"/>
+  <rect x="0" y="292" width="1200" height="8" fill="#F5A623"/>
+  <circle cx="1080" cy="40" r="180" fill="#F5A623" opacity="0.07"/>
+  <circle cx="1010" cy="250" r="120" fill="#F5A623" opacity="0.06"/>
+  <text x="70" y="105" font-family="Quicksand, 'Helvetica Neue', Arial, sans-serif" font-size="22" font-style="italic" fill="#F5A623">Digital marketing outsourcing.</text>
+  <text x="70" y="170" font-family="Quicksand, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="3">GROWTH OF</text>
+  <text x="70" y="232" font-family="Quicksand, 'Helvetica Neue', Arial, sans-serif" font-size="56" font-weight="700" fill="#F5A623" letter-spacing="3">INFLUENCE</text>
+  <text x="640" y="150" font-family="Quicksand, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#FFFFFF" opacity="0.9">People and AI agents, one system.</text>
+  <text x="640" y="185" font-family="Quicksand, 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#FFFFFF" opacity="0.9">Infrastructure, not campaigns.</text>
+</svg>

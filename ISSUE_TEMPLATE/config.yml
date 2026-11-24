@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/growthofinfluence/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, not as a public issue.
+  - name: Work with Growth Of Influence
+    url: https://growthofinfluence.com/book-a-call/
+    about: Looking for marketing help? Book a call.
