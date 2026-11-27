@@ -29,6 +29,13 @@ Experienced marketers and AI agents deliver growth for brands, and the tools we 
 | **AI content distribution** | One idea becomes native posts across 18 platforms |
 | **Websites** | Fast, accessible, WordPress sites our clients can edit |
 
+## Our companies
+
+| Company | What it does |
+|---|---|
+| [**Purploom**](https://purploom.com/) | The Always On License: a full marketing and sales system installed for experts who sell to companies. |
+| [**Shipping Websites**](https://shippingwebsites.com/) | Websites designed and built for shipowners, ship managers and other established companies with no website yet. |
+
 ## Open source
 
 Tools we use every day, released under the MIT license.
